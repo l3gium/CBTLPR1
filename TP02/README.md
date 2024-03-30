@@ -28,7 +28,7 @@ Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
 <img src="assets/TP02Ex09.gif">
 
 # Exercício 10:
-<img src="gifs/TP02Ex010.gif">
+<img src="assets/TP02Ex010.gif">
 
 # Exercício 11:
-<img src="agifs/TP02Ex11.gif">
+<img src="assets/TP02Ex11.gif">

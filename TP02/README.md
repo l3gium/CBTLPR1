@@ -1,7 +1,7 @@
 Desenvolvedores: Beatriz Bastos Borges e Miguel Luizatto Alves
 
 # Exercício 1:
-<img src="gifs/TP02Ex01.gif">
+<img src="gifs/TP02Ex0.gif">
 
 # Exercício 2:
 <img src="gifs/TP02Ex02.gif">
